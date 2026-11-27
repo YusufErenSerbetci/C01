@@ -6,11 +6,9 @@
 /*   By: yserbetc <yserbetc@student.42istanbul.c    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/11/27 23:39:32 by yserbetc          #+#    #+#             */
-/*   Updated: 2026/11/27 23:46:17 by yserbetc         ###   ########.fr       */
+/*   Updated: 2026/11/28 00:01:22 by yserbetc         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
-#include <unistd.h>
 
 void	ft_ultimate_ft(int *********nbr)
 {
